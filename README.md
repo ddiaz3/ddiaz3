@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddiaz3 
 - 👀 I’m interested in ...mountain biking, surfing, snowboarding, and swimming 
-- 🌱 I’m currently learning ... C#, Powershell, Python, .NET, Java 
+- 🌱 I’m currently learning ... Python, C#, Powershell, .NET, Java 
 - 💞️ I’m looking to collaborate on ...open sourced projects 
 - 📫 How to reach me ... derek.j.diaz@gmail.com 
 
